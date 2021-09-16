@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi there <img src="images\image1.gif" width="35px"></img>
 
-🔭 I’m currently working on <b>qTest MStest Parser</b> ...</br>
-🌱 I’m currently learning <b>anything free and open source and of value to community</b> ...</br>
+🔭 I’m currently working on <b>qTest MSTest Parser</b> ...</br>
+🌱 I’m currently learning <b>anything open source and of value to community</b> ...</br>
 🔭 I’m currently working on<img src="images\image2.gif" width="28px"></img>**AUTOMATION**<img src="images\image2.gif" width="28px"></img> ...
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)
