@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)
-
 -->
-### Hi there <img src="images\image1.gif" width="40px"></img>
+# Hi there <img src="images\image1.gif" width="35px"></img>
+
 🔭 I’m currently working on<img src="images\image2.gif" width="28px"></img>**AUTOMATION**<img src="images\image2.gif" width="28px"></img> ...
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)
