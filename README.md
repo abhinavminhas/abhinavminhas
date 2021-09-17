@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi there <img src="images\image1.gif" width="35px"></img>
+# Hey there <img src="images\image1.gif" width="35px"></img>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinavminhas.abhinavminhas)
 
 🔭 I’m currently working on <b>qTest MSTest Parser</b> ...  
 🌱 I’m currently learning <b>primarily anything <img src="images\image3.png" width="20px" /> <img src="images\image4.png" width="80px" /> and of value to the <img src="images\image5.png" width="140px" /></b> ...  
 🔭 I’m currently working on<img src="images\image2.gif" width="28px" />**AUTOMATION**<img src="images\image2.gif" width="28px" /> ...  
-📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Abhinav Minhas](https://www.linkedin.com/in/abhinav-minhas-46226310/)  ...  
+📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Abhinav Minhas](https://www.linkedin.com/in/abhinav-minhas-46226310/)  ...  
 
-<img align="right" alt="GIF" src="images\animation1.gif?raw=true" width="440" height="240" />
+  <img align="right" alt="GIF" src="images\animation1.gif?raw=true" width="400px" />  
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
