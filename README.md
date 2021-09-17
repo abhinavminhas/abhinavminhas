@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 🔭 I’m currently working on<img src="images\image2.gif" width="28px" />**AUTOMATION**<img src="images\image2.gif" width="28px" /> ...  
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Abhinav Minhas](https://www.linkedin.com/in/abhinav-minhas-46226310/)  ...  
 
+<img src="images\animation1.gif" align="right" width="440px" height="240px" />
+
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
