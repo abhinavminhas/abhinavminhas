@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
-<h2 align="center"> [ <i>Personal REPOS</i> ] </h2>
+<h2 align="center"> [ Personal Repos ] </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)
 
-<h2 align="center"> [ <i>Maintained Forks</i> ] </h2>
+<h2 align="center"> [ Maintained Forks ] </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=maroongold&repo=trxer)](https://github.com/abhinavminhas/trxer)
 
-<h2 align="center"> [ <i>Handson</i> ] </h2>
+<h2 align="center"> [ Handson ] </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)
