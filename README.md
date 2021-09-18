@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Hey there <img src="images\image1.gif" width="35px"></img>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinavminhas.abhinavminhas)
+<!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20px" /> </a>  -->
 
 🔭 I’m currently working on <b>qTest MSTest Parser</b> ...  
 🌱 I’m currently learning <b>primarily anything <img src="images\image3.png" width="20px" /> <img src="images\image4.png" width="80px" /> and of value to the <img src="images\image5.png" width="148px" /></b> ...  
