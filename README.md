@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=maroongold&repo=trxer)](https://github.com/abhinavminhas/trxer)
 
-<h2 align="center"> [ Owned Hands-on Repos ] </h2>
+<h2 align="center"> [ Owned Hands-On Repos ] </h2>
 <p align="center"><i>Attempt to learn and share ....</i></p>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)
