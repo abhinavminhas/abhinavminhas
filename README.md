@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
 <h2 align="center"> [ Owned Repos ] </h2>
-<p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate....</i></p>
+<p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate ....</i></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)
 
 <h2 align="center"> [ Maintained Forks ] </h2>
-<p align="center"><i>Awesome projects from GitHub open source contributors, maintained....</i></p>
+<p align="center"><i>Awesome projects from GitHub open source contributors, maintained ....</i></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=maroongold&repo=trxer)](https://github.com/abhinavminhas/trxer)
 
 <h2 align="center"> [ Owned Hands-on Repos ] </h2>
-<p align="center"><i>Attempt to learn and share....</i></p>
+<p align="center"><i>Attempt to learn and share ....</i></p>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)
