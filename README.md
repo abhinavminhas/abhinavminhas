@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img alt="GIF" src="images\animation1.gif?raw=true" width="540px" /> </p>
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)  
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
 <h2 align="center"> [ Owned Repos ] </h2>
