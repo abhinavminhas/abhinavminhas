@@ -39,6 +39,8 @@ _I'm **Abhinav Minhas**_ ....
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
+<p align="right"><TT>Don't forget to give <img src="images\image6.png?raw=true" width="24px" /> if you like something</TT> ....</p>
+
 </br>
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
 <p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate ....</i></p>
