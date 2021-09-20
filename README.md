@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20px" /> </a>  -->
 
 🔭 I’m currently working on **qTest MSTest Parser**</b> ...  
-🌱 I’m currently learning **primarily anything** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="24px" /> <img src="images\image4.png" width="80px" /> **and of value to the** <img src="images\image5.png" width="150px" /></b> ...  
-🔭 I’m currently working on<img src="images\image2.gif" width="28px" />**AUTOMATION**<img src="images\image2.gif" width="28px" /> ...  
+🌱 I’m currently learning **primarily anything** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <img src="images\image2.png" width="80px" /> **and of value to the** <img src="images\image3.png" width="150px" /></b> ...  
+🔭 I’m currently working on<img src="images\image4.gif" width="28px" />**AUTOMATION**<img src="images\image4.gif" width="28px" /> ...  
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Abhinav Minhas](https://www.linkedin.com/in/abhinav-minhas-46226310/)  ...  
 
 <p align="center"> <img alt="GIF" src="images\animation1.gif?raw=true" width="480px" /> </p>
@@ -30,20 +30,25 @@ Here are some ideas to get you started:
 💬 Ask me about **anything you like** ...  
 ⚡ Fun fact: **I run on** _**Coffee**_ <a href="https://www.buymeacoffee.com/abhinavminhas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="120px" /></a> **&**  _**Music**_ <a href="https://open.spotify.com/user/213mwagmrdoa3gcr762sveuoq"  target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" alt="Spotify" width="30px" /></a> ...  
 
+</br>
+<h2 align="center">[ <TT><b>GitHub STATS</b></TT> ]</h2>
+</br>
+
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
 
-<h2 align="center"> [ Owned Repos ] </h2>
+</br>
+<h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
 <p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate ....</i></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)
 
-<h2 align="center"> [ Maintained Forks ] </h2>
+<h2 align="center"> [ <TT><b>Maintained Forks</b></TT> ] </h2>
 <p align="center"><i>Awesome projects from GitHub open source contributors, maintained ....</i></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=maroongold&repo=trxer)](https://github.com/abhinavminhas/trxer)
 
-<h2 align="center"> [ Owned Hands-On Repos ] </h2>
+<h2 align="center"> [ <TT><b>Owned Hands-On Repos</b></TT> ] </h2>
 <p align="center"><i>Attempt to learn and share ....</i></p>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)
