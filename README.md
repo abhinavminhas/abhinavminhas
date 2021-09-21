@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey there <img src="https://user-images.githubusercontent.com/17473202/134117233-5edfd50f-d53a-431a-8ade-01c4d0587f98.gif" width="35px"></img>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhinavminhas.abhinavminhas) -->
+![](https://visitor-badge.glitch.me/badge?page_id=abhinavminhas.abhinavminhas)
 <!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20px" /> </a> -->
 
 _I'm **Abhinav Minhas**_ ....  
