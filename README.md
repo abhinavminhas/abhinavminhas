@@ -29,7 +29,7 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
 <ul>
    <li> 🔭 I’m currently working on </li>
      
-   - [x] <a href="https://github.com/abhinavminhas/qtest-mstest-parser"><b>qTest MSTest Parser</b></a>... 
+   - [x] <a href="https://github.com/abhinavminhas/qtest-mstest-parser"><b>qTest MSTest Parser</b></a>
    - [x] <a href="https://www.tricentis.com/academy/ondemand-training/qtest-specialist-level-1"><b>qTest Specialist Level 1</b></a>
    - [ ] <a href="https://github.com/abhinavminhas/Gmail-API-Helper"><b>Gmail API Helper</b></a>
    - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)**
