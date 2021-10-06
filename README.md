@@ -35,7 +35,7 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
    - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)**
    
    <li> 🌱 I’m currently learning <b>primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <img src="https://user-images.githubusercontent.com/17473202/134117260-3a1e505a-3de5-4151-aa6f-ad5e31805872.png" width="80px" /> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" /></b>...</li>
-   <li> 🔭 I’m currently working on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" />...</li>
+   <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" />...</li>
    <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas-46226310/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="18px"/> Abhinav Minhas</a>...</li>
 
    <li> 💬 Ask me about <b>anything you may like</b>...</li>
