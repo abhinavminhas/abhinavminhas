@@ -31,8 +31,8 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
      
    - [x] <a href="https://github.com/abhinavminhas/qtest-mstest-parser"><b>qTest MSTest Parser</b></a>
    - [x] <a href="https://www.tricentis.com/academy/ondemand-training/qtest-specialist-level-1"><b>qTest Specialist Level 1</b></a>
-   - [ ] <a href="https://github.com/abhinavminhas/Gmail-API-Helper"><b>Gmail API Helper</b></a>
-   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)**
+   - [ ] <a href="https://github.com/abhinavminhas/Gmail-API-Helper"><b>Gmail API Helper</b></a> <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>
+   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>
    
    <li> 🌱 I’m currently learning <b>primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <img src="https://user-images.githubusercontent.com/17473202/134117260-3a1e505a-3de5-4151-aa6f-ad5e31805872.png" width="80px" /> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" /></b>...</li>
    <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" />...</li>
@@ -41,7 +41,7 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
    <li> 💬 Ask me about <b>anything you may like</b>...</li>
    <li> ⚡ Fun fact: I run on ☕<b>Coffee</b> <a href="https://www.buymeacoffee.com/abhinavminhas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="120px" /></a> & 🎧<b>Music</b> <a href="https://open.spotify.com/user/213mwagmrdoa3gcr762sveuoq" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" alt="Spotify" width="30px" /></a>...</li>
 </ul>
-</br>
+<h3 align="center"><TT><b>Learn, Unlearn & Relearn</b></TT></h2>
 
 ## 🚀 Skill Set (Proficient/Emerging)
 
