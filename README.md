@@ -141,7 +141,7 @@ var skill = {
 </br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavminhas&theme=default)  
 
 <p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="48px" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
 
