@@ -149,7 +149,7 @@ var skill = {
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
 <p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate ....</i></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=gmail-api-helper)](https://github.com/abhinavminhas/gmail-api-helper)
 
 <h2 align="center"> [ <TT><b>Maintained Forks</b></TT> ] </h2>
 <p align="center"><i>Awesome projects from GitHub open source contributors, maintained ....</i></p>
