@@ -24,17 +24,18 @@ Here are some ideas to get you started:
 I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲🧩 ....  
 </br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" width="420px" width="420px"/>
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" width="420px" width="420px"/> -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="340px" width="340px"/>
 
 <ul>
    <li> 🔭 I’m currently working on </li>
-     
-   - [x] <a href="https://github.com/abhinavminhas/ShadowRoot-Digger"><b>Work with "Shadow Root" in Selenium</b></a>
-   - [ ] <a href="https://github.com/abhinavminhas/gmail-api-helper"><b>Enhance Gmail API Helper</b></a> <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>
-   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>
-   
-   
-   <li> 🌱 I’m currently learning <b>primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <img src="https://user-images.githubusercontent.com/17473202/134117260-3a1e505a-3de5-4151-aa6f-ad5e31805872.png" width="80px" /> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" /></b>...</li>
+
+   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-dotnet"><b>Work with "Shadow Root" in Selenium (.NET)</b></a>  
+   - [x] <a href="https://github.com/abhinavminhas/gmail-api-helper"><b>Gmail API Helper</b></a>  
+   - [ ] <a href="https://github.com/abhinavminhas/shadowroot-digger-java"><b>Work with "Shadow Root" in Selenium (JAVA)</b></a>  <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>  
+   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>  
+
+   <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" />...</li>
    <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" />...</li>
    <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas-46226310/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="18px"/> Abhinav Minhas</a>...</li>
 
@@ -43,7 +44,7 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
 </ul>
 <h3 align="center"><TT><b>Learn, Unlearn & Relearn</b></TT></h2>
 
-## 🚀 Skill Set (Proficient/Emerging)
+## 🚀 Skill Set
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134754316-f010c68d-ada8-4688-93c4-0a08a134e2ea.gif?raw=true" width="440px" width="440px"/>
 
@@ -58,7 +59,6 @@ var skill = {
       "Java",
       "Javascript",
       "Powershell",
-      "Python",
       "Bash"
    ]
 }
@@ -140,16 +140,17 @@ var skill = {
 </br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.abhinavminhas.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.abhinavminhas.vercel.app/api/top-langs/?username=abhinavminhas&theme=default)  
+![Top Langs](https://github-readme-stats.abhinavminhas.vercel.app/api/top-langs/?username=abhinavminhas&layout=compact&theme=default)  
 
-<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="48px" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
+<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34px" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
 
 </br>
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
-<p align="center"><i>Some of the cool created and owned projects with an attempt to solve a problem, innovate ....</i></p>
+<p align="center"><i>Some of the cool created and owned projects ....</i></p>
 
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=gmail-api-helper)](https://github.com/abhinavminhas/gmail-api-helper)  
-[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=ShadowRoot-Digger)](https://github.com/abhinavminhas/ShadowRoot-Digger)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=posh)](https://github.com/abhinavminhas/posh)
+[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-dotnet)](https://github.com/abhinavminhas/shadowroot-digger-dotnet)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-java)](https://github.com/abhinavminhas/shadowroot-digger-java)  
+[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=posh)](https://github.com/abhinavminhas/posh)
 
 <h2 align="center"> [ <TT><b>Maintained Forks</b></TT> ] </h2>
 <p align="center"><i>Awesome projects from GitHub open source contributors, maintained ....</i></p>
