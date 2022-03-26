@@ -30,9 +30,9 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
 <ul>
    <li> 🔭 I’m currently working on </li>
 
-   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-dotnet"><b>Work with "Shadow Root" in Selenium (.NET)</b></a>  
    - [x] <a href="https://github.com/abhinavminhas/gmail-api-helper"><b>Gmail API Helper</b></a>  
-   - [ ] <a href="https://github.com/abhinavminhas/shadowroot-digger-java"><b>Work with "Shadow Root" in Selenium (JAVA)</b></a>  <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>  
+   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-dotnet"><b>Work with "Shadow Root" in Selenium (.NET)</b></a>  
+   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-java"><b>Work with "Shadow Root" in Selenium (JAVA)</b></a>  
    - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>  
 
    <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" />...</li>
