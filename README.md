@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 -->
 
-# Hey there <img src="https://user-images.githubusercontent.com/17473202/134117233-5edfd50f-d53a-431a-8ade-01c4d0587f98.gif" width="35px"></img>
+# Hey there <img src="https://user-images.githubusercontent.com/17473202/134117233-5edfd50f-d53a-431a-8ade-01c4d0587f98.gif" width="35"></img>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhinavminhas.abhinavminhas) -->
 ![](https://visitor-badge.abhinavminhas.vercel.app/badge?page_id=abhinavminhas.abhinavminhas)
-<!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20px" /> </a> -->
+<!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20" /> </a> -->
 
 I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲🧩 ....  
 </br>
 
-<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" width="420px" width="420px"/> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="340px" width="340px"/>
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" width="420" width="420"/> -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="340" width="340"/>
 
 <ul>
    <li> 🔭 I’m currently working on </li>
@@ -33,20 +33,19 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
    - [x] <a href="https://github.com/abhinavminhas/gmail-api-helper"><b>Gmail API Helper</b></a>  
    - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-dotnet"><b>Work with "Shadow Root" in Selenium (.NET)</b></a>  
    - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-java"><b>Work with "Shadow Root" in Selenium (JAVA)</b></a>  
-   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28px"/>  
-
-   <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28px" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150px" />...</li>
-   <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28px" />...</li>
-   <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas-46226310/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="18px"/> Abhinav Minhas</a>...</li>
+   - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/>  
+   <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150" />...</li>
+   <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" />...</li>
+   <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas-46226310/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="18"/> Abhinav Minhas</a>...</li>
 
    <li> 💬 Ask me about <b>anything you may like</b>...</li>
-   <li> ⚡ Fun fact: I run on ☕<b>Coffee</b> <a href="https://www.buymeacoffee.com/abhinavminhas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="120px" /></a> & 🎧<b>Music</b> <a href="https://open.spotify.com/user/213mwagmrdoa3gcr762sveuoq" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" alt="Spotify" width="30px" /></a>...</li>
+   <li> ⚡ Fun fact: I run on ☕<b>Coffee</b> <a href="https://www.buymeacoffee.com/abhinavminhas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="120" /></a> & 🎧<b>Music</b> <a href="https://open.spotify.com/user/213mwagmrdoa3gcr762sveuoq" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" alt="Spotify" width="30" /></a>...</li>
 </ul>
 <h3 align="center"><TT><b>Learn, Unlearn & Relearn</b></TT></h2>
 
 ## 🚀 Skill Set
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134754316-f010c68d-ada8-4688-93c4-0a08a134e2ea.gif?raw=true" width="440px" width="440px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134754316-f010c68d-ada8-4688-93c4-0a08a134e2ea.gif?raw=true" width="440" width="440"/>
 
 <details>
     <summary><font size="40"><b>Programming</b></summary>
@@ -136,13 +135,13 @@ var skill = {
 </details>
 
 </br>
-<h2 align="center"><img alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117834-8d5c3ab5-43bb-4780-b934-258ee2adad59.gif?raw=true" width="48px" /> <TT><b>GitHub STATS</b></TT> <img alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117834-8d5c3ab5-43bb-4780-b934-258ee2adad59.gif?raw=true" width="48px" /></h2>
+<h2 align="center"><img alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117834-8d5c3ab5-43bb-4780-b934-258ee2adad59.gif?raw=true" width="48" /> <TT><b>GitHub STATS</b></TT> <img alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117834-8d5c3ab5-43bb-4780-b934-258ee2adad59.gif?raw=true" width="48" /></h2>
 </br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.abhinavminhas.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.abhinavminhas.vercel.app/api/top-langs/?username=abhinavminhas&layout=compact&theme=default)  
 
-<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34px" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
+<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
 
 </br>
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
