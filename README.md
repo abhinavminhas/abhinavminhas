@@ -41,7 +41,8 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
    <li> 💬 Ask me about <b>anything you may like</b>...</li>
    <li> ⚡ Fun fact: I run on ☕<b>Coffee</b> <a href="https://www.buymeacoffee.com/abhinavminhas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="120" /></a> & 🎧<b>Music</b> <a href="https://open.spotify.com/user/213mwagmrdoa3gcr762sveuoq" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" alt="Spotify" width="30" /></a>...</li>
 </ul>
-<h3 align="center"><TT><b>Learn, Unlearn & Relearn</b></TT></h2>
+
+<h3 align="center"><TT><b>Learn, Unlearn & Relearn</b></TT></h3>
 
 ## 🚀 Skill Set
 
