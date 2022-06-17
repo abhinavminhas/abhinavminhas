@@ -21,19 +21,17 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.abhinavminhas.vercel.app/badge?page_id=abhinavminhas.abhinavminhas)
 <!-- <a href = "https://www.linkedin.com/in/abhinav-minhas-46226310/"> <img src="https://i.stack.imgur.com/gVE0j.png" width="20" /> </a> -->
 
-I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲🧩 ....  
+I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer (QE)**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲🧩 ....  
 </br>
 
-<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" width="420" width="420"/> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="340" width="340"/>
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/> -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="280"/>
 
 <ul>
    <li> 🔭 I’m currently working on </li>
 
-   - [x] <a href="https://github.com/abhinavminhas/gmail-api-helper"><b>Gmail API Helper</b></a>  
-   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-dotnet"><b>Work with "Shadow Root" in Selenium (.NET)</b></a>  
-   - [x] <a href="https://github.com/abhinavminhas/shadowroot-digger-java"><b>Work with "Shadow Root" in Selenium (JAVA)</b></a>  
    - [ ] <a href="https://trailhead.salesforce.com/credentials/administrator"><b>Salesforce Admin Credentials Prep</b></a>**/[Trailblazer](https://trailblazer.me/id/abhinavminhas)** <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/>  
+   - [ ] <a href="https://github.com/abhinavminhas/WebCapture.NET"><b>Web Capture (.NET)</b></a>   <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/>  
    <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/134117274-a533da70-66cb-49ac-9aef-5c23a17f7c16.png" width="150" />...</li>
    <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" />...</li>
    <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas-46226310/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="18"/> Abhinav Minhas</a>...</li>
