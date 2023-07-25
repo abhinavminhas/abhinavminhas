@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey there <img src="https://user-images.githubusercontent.com/17473202/255612849-b809a7db-cd08-435e-95cf-7c2d5a50a075.gif" width="35"></img>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas_temp&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
 I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer (QE)**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲 ....  
 
 <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/> -->
@@ -44,7 +44,7 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/)
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134754316-f010c68d-ada8-4688-93c4-0a08a134e2ea.gif?raw=true" width="444" width="444"/>
 
 <details>
-    <summary><b>Programming</b></summary>
+    <summary><b>Programming</b></summary></br>
 
 ```
 var skill = {
@@ -63,7 +63,7 @@ var skill = {
 </details>
 
 <details>
-   <summary><b>Integrated Development Environments</b></summary></br>&ensp;&ensp;
+   <summary><b>IDE</b></summary></br>&ensp;&ensp;
       <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" /></a>
       <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white" /></a>
 </details>
@@ -119,7 +119,7 @@ var skill = {
    <summary><b>Databases</b></summary></br>&ensp;&ensp;
       <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /></a>
       <a href="https://www.microsoft.com/en-au/sql-server/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=456B91" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></a>
 </details>
 
@@ -136,6 +136,7 @@ var skill = {
 </br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.abhinavminhas.vercel.app/api?username=abhinavminhas&theme=great-gatsby&show_icons=true&include_all_commits=true)  
+</br>
 ![Top Langs](https://github-readme-stats.abhinavminhas.vercel.app/api/top-langs/?username=abhinavminhas&layout=compact&theme=default)  
 
 <p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
