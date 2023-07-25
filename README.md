@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey there <img src="https://user-images.githubusercontent.com/17473202/255612849-b809a7db-cd08-435e-95cf-7c2d5a50a075.gif" width="35"></img>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas_temp&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
 I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas-46226310/), a **B-Tech** grad currently working as **Sr. Automation Engineer (QE)**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲 ....  
 
 <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/> -->
