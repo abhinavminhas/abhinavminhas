@@ -98,6 +98,10 @@ var skill = {
       <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-5CD65C?style=flat&logo=selenium&logoColor=white" /></a>
       <a href="https://www.tricentis.com/products/automate-continuous-testing-tosca/" target="_blank"><img src="https://img.shields.io/badge/Tosca-004D99.svg?style=flat&logo=tricentis&'logoColor=white" /></a>
       <a href="https://testcafe.io/" target="_blank"><img src="https://img.shields.io/badge/TestCafe-00B8E6?style=flat&logo=testcafe&logoColor=white" /></a>
+      <a href="https://www.cypress.io/" target="_blank"><img src="https://img.shields.io/badge/Cypress-%2317202C?style=flat&logo=cypress&logoColor=white" /></a>
+      <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-%232EAD33?style=flat&logo=playwright&logoColor=white" /></a>
+      <a href="https://axios-http.com/" target="_blank"><img src="https://img.shields.io/badge/Axios-%235A29E4?style=flat&logo=axios&logoColor=white" /></a>
+      <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" /></a>
 </details>
 
 <details>
