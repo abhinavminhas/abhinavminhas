@@ -110,7 +110,7 @@ var skill = {
       <a href="https://www.atlassian.com/software/bamboo" target="_blank"><img src="https://img.shields.io/badge/Bamboo-%230047B3.svg?style=flat&logo=bamboo&logoColor=white" /></a>
       <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" /></a>
       <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" /></a>
-      <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" /></a>
+      <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=FC6D26" /></a>
 </details>
 
 <details>
