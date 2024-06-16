@@ -26,10 +26,12 @@ I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas/), a **B-T
 <ul>
    <li> 🔭 I’m currently working on </li>
       <ul>
-         <li> Contributing cool projects here <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
-         <li> Parenting skills <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
+         <li> Sharing exciting projects <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
+         <li> Engaging in continuous learning and collaboration <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
+         <li> Exploring new technologies and frameworks <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
+         <li> Contributing to open source projects <img src="https://user-images.githubusercontent.com/17473202/136398307-84213c4c-cc02-418f-a561-aa9f5d374043.gif" width="28"/> </li>
       </ul>
-   <li> 🌱 I’m currently learning primarily anything <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" width="28" /> <b>Open Source</b> and of value to the <img src="https://user-images.githubusercontent.com/17473202/255617596-616c464a-d6a1-4cd3-a0b6-20de14c5a47e.png" width="124" /> ...</li>
+   <li> 🌱 I’m currently learning, primarily valuable <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-128.png" alt="" width="28" /> <b>Open Source</b> <b>/</b> <img src="https://cdn-icons-png.flaticon.com/512/7213/7213255.png" alt="" width="28" /> <b>Cloud Technologies</b> that benefit the <img src="https://user-images.githubusercontent.com/17473202/255617596-616c464a-d6a1-4cd3-a0b6-20de14c5a47e.png" width="124" /> ...</li>
    <li> 👯 I’m looking to collaborate on<img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" /><b>AUTOMATION</b><img src="https://user-images.githubusercontent.com/17473202/134117286-a0ccd21d-fafe-4d29-80cd-6eaa0ef2f266.gif" width="28" />...</li>
    <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-minhas/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width ="17"/> Abhinav Minhas</a> ...</li>
    <li> 💬 Ask me about <b>anything you may like</b> ...</li>
@@ -143,11 +145,11 @@ var skill = {
 </br>
 ![Top Langs](https://github-readme-stats.abhinavminhas.vercel.app/api/top-langs/?username=abhinavminhas&layout=compact&theme=default)  
 
-<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if you like something</b></TT> ....</p>
+<p align="right"><img src="https://user-images.githubusercontent.com/17473202/134611399-f12410ef-8dad-4257-83bd-7929ae38fc0c.gif?raw=true" width="34" />  <TT><b>Don't forget to hit <img src="https://user-images.githubusercontent.com/17473202/134117978-ffd9a666-c2f5-4a56-b3b8-4db90326acf5.png?raw=true" /> if something appeals to you</b></TT> ....</p>
 
 </br>
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
-<p align="center"><i>Some of the cool created and owned projects ....</i></p>
+<p align="center"><i>Some creative projects I've created and own ....</i></p>
 
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=replace-tokens)](https://github.com/abhinavminhas/replace-tokens)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)  
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-dotnet)](https://github.com/abhinavminhas/shadowroot-digger-dotnet)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-java)](https://github.com/abhinavminhas/shadowroot-digger-java)  
@@ -159,6 +161,6 @@ var skill = {
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=maroongold&repo=trxer)](https://github.com/abhinavminhas/trxer)
 
 <h2 align="center"> [ <TT><b>Owned Hands-On Repos</b></TT> ] </h2>
-<p align="center"><i>Attempt to learn and share ....</i></p>
+<p align="center"><i>Strive to learn and share ....</i></p>
   
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-testcafe)](https://github.com/abhinavminhas/handson-testcafe)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=github_dark&show_owner=abhinavminhas&repo=handson-python)](https://github.com/abhinavminhas/handson-python)  
