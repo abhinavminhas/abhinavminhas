@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Hey there <img src="https://user-images.githubusercontent.com/17473202/255612849-b809a7db-cd08-435e-95cf-7c2d5a50a075.gif" width="35"></img>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
-I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas/), a **B-Tech** grad currently working as **Sr. Automation Engineer (QE)**. I'm a **self-driven**, **ambitious** individual with a passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. As an **engineer**, I constantly keep **pushing** myself to be better at what I do and the more I learn makes me realize how little I know. I also like to occasionally amuse myself to the tunes of **6 strings** 🎸, love to **travel** 🛩 places clicking **pictures** 📸, **gaming** 🎮 and **playing** ⚽️🏏🎳🎱🏓🏸🎰🎲 ....  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas_temp&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
+I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas/), a **B-Tech** grad and currently working as a **Sr. Automation Engineer (QE)**. I'm a **self-motivated**, **ambitious** tech enthusiast with a relentless passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. I'm constantly seeking **growth** as an **engineer** and new discovery humbles me with how much more there is to explore. Beyond **programming**, I also like to occasionally **amuse** myself to the tunes of **6 strings** 🎸, **jetting off** 🛩 to new **destinations**, **chasing** light and shadows through my **lens** 📸, **diving** into immersive **gaming** worlds 🎮 or **seeking** thrills across **fields** and **courts** ⚽️🏏🎳🎱🏓🏸🎰🎲. **Tech** might be my **profession**, but **curiosity** is my **lifestyle** ....  
 
-<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="300"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/>
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="300"/> -->
 
 <ul>
    <li> 🔭 I’m currently working on </li>
@@ -149,11 +149,12 @@ var skill = {
 
 </br>
 <h2 align="center"> [ <TT><b>Owned Repos</b></TT> ] </h2>
-<p align="center"><i>Some creative projects I've created and own ....</i></p>
+<p align="center"><i>Individual Contributions ....</i></p>
 
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=replace-tokens)](https://github.com/abhinavminhas/replace-tokens)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=qtest-mstest-parser)](https://github.com/abhinavminhas/qtest-mstest-parser)  
 [![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-dotnet)](https://github.com/abhinavminhas/shadowroot-digger-dotnet)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=shadowroot-digger-java)](https://github.com/abhinavminhas/shadowroot-digger-java)  
-[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=gmail-api-helper)](https://github.com/abhinavminhas/gmail-api-helper)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=posh)](https://github.com/abhinavminhas/posh)
+[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=gmail-api-helper)](https://github.com/abhinavminhas/gmail-api-helper)[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=QueryDB.NET)](https://github.com/abhinavminhas/QueryDB.NET)  
+[![Readme Card](https://github-readme-stats.abhinavminhas.vercel.app/api/pin/?username=abhinavminhas&theme=vision-friendly-dark&card_width=10&show_owner=abhinavminhas&repo=posh)](https://github.com/abhinavminhas/posh)
 
 <h2 align="center"> [ <TT><b>Maintained Forks</b></TT> ] </h2>
 <p align="center"><i>Awesome projects from GitHub open source contributors, maintained ....</i></p>
