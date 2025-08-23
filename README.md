@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinavminhas_temp&label=VISITORS&labelColor=%23444546&countColor=%233C88F4&style=flat&labelStyle=upper)  
 I'm [_**Abhinav Minhas**_](https://www.linkedin.com/in/abhinav-minhas/), a **B-Tech** grad and currently working as a **Sr. Automation Engineer (QE)**. I'm a **self-motivated**, **ambitious** tech enthusiast with a relentless passion for **technology** who loves to **explore**, **learn** new technologies, **experiment** with **ideas** and **share** through this platform. I'm constantly seeking **growth** as an **engineer** and new discovery humbles me with how much more there is to explore. Beyond **programming**, I also like to occasionally **amuse** myself to the tunes of **6 strings** 🎸, **jetting off** 🛩 to new **destinations**, **chasing** light and shadows through my **lens** 📸, **diving** into immersive **gaming** worlds 🎮 or **seeking** thrills across **fields** and **courts** ⚽️🏏🎳🎱🏓🏸🎰🎲. **Tech** might be my **profession**, but **curiosity** is my **lifestyle** ....  
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/>
-<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="300"/> -->
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/134117580-674eca31-a2a0-44e6-8fb9-971351681d60.gif?raw=true" height="420" width="420"/> -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17473202/155526677-efb57465-59ac-416a-a380-021234a71bbf.gif?raw=true" width="300"/>
 
 <ul>
    <li> 🔭 I’m currently working on </li>
